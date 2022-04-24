@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\bin\Debug\net6.0\new_projects.exe
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\bin\Debug\net6.0\new_projects.deps.json
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\bin\Debug\net6.0\new_projects.runtimeconfig.json
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\bin\Debug\net6.0\new_projects.dll
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\bin\Debug\net6.0\new_projects.pdb
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.AssemblyInfo.cs
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.dll
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\refint\new_projects.dll
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.pdb
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\new_projects.genruntimeconfig.cache
+C:\Users\Admin\Desktop\geekbrains\C#\lesson1\projects\new_projects\obj\Debug\net6.0\ref\new_projects.dll
